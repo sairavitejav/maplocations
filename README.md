@@ -88,6 +88,6 @@ password: Sai@1234
 
 
 ## Figma Links:
-https://www.figma.com/proto/lQ7r5NjcrYxWvFauP023dK/Company-Assignment?node-id=2-28&p=f&t=vl3YUU3qvWTvqs49-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A3
+https://www.figma.com/proto/lQ7r5NjcrYxWvFauP023dK/Company-Assignment?node-id=1-3&p=f&t=XdGuBDkoBUXfCQOw-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A3
 
 https://www.figma.com/design/lQ7r5NjcrYxWvFauP023dK/Company-Assignment?node-id=0-1&t=QpjEJbDYx4lvXCGK-1
