@@ -86,6 +86,10 @@ username: Sai
 password: Sai@1234
 
 
+## Running Project
+1. Start the backend server: node index.js
+2. Start the frontend server: npm start
+
 
 ## Figma Links:
 https://www.figma.com/proto/lQ7r5NjcrYxWvFauP023dK/Company-Assignment?node-id=1-3&p=f&t=XdGuBDkoBUXfCQOw-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A3
